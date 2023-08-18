@@ -40,8 +40,8 @@ Here, we will describe a few platforms that can be used to host and share your m
 
 Learners may benefit from:
 
-- being familiar with course design principles  / Nicholls cycle (tbc),
-- having their lesson plan in place.
+- having their lesson plan in place,
+- have a basic understanding of versioning tools (e.g. Git).
 
 <!---
 ## Learning Experiences
@@ -161,10 +161,11 @@ As anticipated in Figure 3.1, in different phases you might need to prioritise t
 ## The life-cycle of training materials and the FAIR principles 
 
 Recap of the four phases:
-- Materials development (collaborative or not),
-- Consultation of the training materials by your learners during the course delivery,
-- Sharing the training materials with learners and potential trainers after completion,
-- Archiving the training materials to provide long-term reference.
+
+* Materials development (collaborative or not),
+* Consultation of the training materials by your learners during the course delivery,
+* Sharing the training materials with learners and potential trainers after completion,
+* Archiving the training materials to provide long-term reference.
 
 Take into consideration that most of these platforms are not specifically designed for training materials.
 The platforms shown are differently fit for the different phases, e.g. the Google Suite allows easy collaborative development but, because it is not possible to search for projects that our account is not linked to, it strongly limits the possibilities of sharing. 
